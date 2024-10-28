@@ -1,5 +1,6 @@
 # Task CLI
 Task CLI is a simple task manager written in Go. It allows you to add, update, delete, and list tasks via the terminal. All tasks are saved in JSON format.
+This project was inspired by the [Task Tracker project from roadmap.sh](https://roadmap.sh/projects/task-tracker).
 
 ## Build
 1. Install Go (minimum version 1.16 required).
